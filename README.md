@@ -31,7 +31,6 @@ Currently looking for a summer 2025 internship or junior developer role to apply
 ## 📈 Achievements
 - Built scalable and optimized systems from scratch.
 - Developed expertise in multi-threading & memory efficiency.
-- Active participant in coding challenges and hackathons.
 
 ---
 
