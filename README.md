@@ -1,54 +1,27 @@
-# 👋 Hi, I'm Dimitris Belias
+# Hey, I'm Dimitris 👋
 
-## About Me
-I'm an undergraduate Electrical and Computer Engineering student at the Technical University of Greece. Passionate about software development, problem-solving, and building scalable systems. Always curious, always learning.
+ECE student at the Technical University of Crete, focused on backend development and systems programming.
 
+## What I work with
 
+- **Languages:** Java, C, Python, MATLAB, MIPS/RISC-V Assembly, VHDL, Bash, SQL
+- **Frameworks & Tools:** Spring Boot, NumPy, Git, Linux, Oracle Cloud
+- **Interests:** OS internals, distributed systems, API design, design patterns
 
----
+## Projects
 
-## 🛠️ Tech Stack & Skills
-- Languages: Java | Python | C | Bash
-- Concepts: OOP | Data Structures & Algorithms 
-- Tools: Git | Linux Systems 
-- Soft Skills: Analytical thinking | Problem solving 
+- **[TinyOS-3 Kernel Extensions](https://github.com/DimitrisBelias/tinyos3)** — Multi-threaded processes, MLFQ scheduling, pipes, and sockets for a teaching OS kernel. Built in C.
+- **[Bank of TUC](https://github.com/DimitrisBelias/)** — Full-stack e-banking simulation with SEPA/SWIFT transfers, bill management, and 6 design patterns. Java + JavaFX.
+- **[TUC Task Bot](https://github.com/DimitrisBelias/)** — Telegram bot integrated with Notion for managing university assignments. Deployed on Oracle Cloud.
+- **[Portfolio](https://dimitrisbelias.dev)** — Personal site with an interactive terminal hacking minigame. React + Vite + Tailwind.
 
----
+## Currently
 
-## 🚀 Projects
+- Building projects with Spring Boot
+- Looking for backend/software engineering internships
 
-### Distributed Messaging System (Java)
-> Scalable, object-oriented version of Apache Kafka  
-- Designed for modularity and maintainability using advanced OOP principles.
+## Get in touch
 
-### Aggregative Movie Preference Analyzer (Python & Bash)
-> Analyzed millions of movie data entries for trends and preferences  
-- Optimized for speed and memory efficiency.  
-- Implemented multi-threading algorithms in a Linux environment.
-
----
-
-## 📈 Achievements
-- Built scalable and optimized systems from scratch.
-- Developed expertise in multi-threading & memory efficiency.
-
----
-
-## 📚 Currently Learning
-- System Design
-- Automation Tools
-- DevOps Fundamentals
-- Trading Algorithms (side hobby)
-
----
-
-## 📬 Let's Connect!
-- Email: dimitris.belias@outlook.com 
-- LinkedIn: [linkedin.com/in/beliasdimitris](https://www.linkedin.com/in/beliasdimitris)  
-- GitHub: [github.com/DimitrisBelias](https://github.com/DimitrisBelias)
-
----
-
-_Always down to collaborate, build, and learn something new!_
-
-
+- **LinkedIn:** [linkedin.com/in/beliasdimitris](https://www.linkedin.com/in/beliasdimitris)
+- **Email:** dimitris@outlook.com
+- **Portfolio:** [dimitrisbelias.dev](https://dimitrisbelias.dev)
