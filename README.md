@@ -20,5 +20,5 @@ ECE student at the Technical University of Crete, focused on backend development
 ## Get in touch
 
 - **LinkedIn:** [linkedin.com/in/beliasdimitris](https://www.linkedin.com/in/beliasdimitris)
-- **Email:** dimitris@outlook.com
+- **Email:** dimitris.belias@outlook.com
 - **Portfolio:** [dimitrisbelias.dev](https://dimitrisbelias.dev)
