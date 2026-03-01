@@ -3,7 +3,7 @@
 ## About Me
 I'm an undergraduate Electrical and Computer Engineering student at the Technical University of Greece. Passionate about software development, problem-solving, and building scalable systems. Always curious, always learning.
 
-Currently looking for a summer 2025 internship or junior developer role to apply my skills and contribute to impactful projects.
+
 
 ---
 
