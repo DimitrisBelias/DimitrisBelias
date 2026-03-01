@@ -15,10 +15,7 @@ ECE student at the Technical University of Crete, focused on backend development
 - **[TUC Task Bot](https://github.com/DimitrisBelias/)** — Telegram bot integrated with Notion for managing university assignments. Deployed on Oracle Cloud.
 - **[Portfolio](https://dimitrisbelias.dev)** — Personal site with an interactive terminal hacking minigame. React + Vite + Tailwind.
 
-## Currently
 
-- Building projects with Spring Boot
-- Looking for backend/software engineering internships
 
 ## Get in touch
 
